@@ -1,2 +1,16 @@
 body { font-family: system-ui, sans-serif; margin: 2rem; }
 h1 { color: #4E5EA3; }
+.retour-haut {
+  display: inline-block;
+  margin: 20px 0;
+  padding: 10px 16px;
+  text-decoration: none;
+  border: 1px solid #333;
+  border-radius: 6px;
+  color: #333;
+}
+
+.retour-haut:hover {
+  background: #333;
+  color: white;
+}

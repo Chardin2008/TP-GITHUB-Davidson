@@ -15,7 +15,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 5. Revue croisée
 (capture)
 
-## Niveau 2
+## Niveau 2 niveau juste
 6. Secret retiré du suivi
 (capture)
 7. Conflit résolu (marqueurs avant, graphe après)
